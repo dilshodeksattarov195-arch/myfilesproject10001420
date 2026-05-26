@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydonnect",
+        "uuid": 3568460,
+        "checksum": "86a3v"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
