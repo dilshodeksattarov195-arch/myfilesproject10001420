@@ -1,0 +1,9 @@
+body { background: #612438; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 50px; display: flex; }
+.block-email-0 { color: #f51fe3; font-size: 12px; margin-bottom: 5px; }
+.block-user-1 { color: #e5d0ca; font-size: 13px; margin-bottom: 5px; }
+.block-logger-2 { color: #26ffec; font-size: 18px; margin-bottom: 5px; }
+.block-email-3 { color: #4288dc; font-size: 12px; margin-bottom: 5px; }
+.block-session-4 { color: #7561ad; font-size: 20px; margin-bottom: 5px; }
+.block-sms-5 { color: #c5288c; font-size: 17px; margin-bottom: 5px; }
+.block-auth-6 { color: #c8076d; font-size: 16px; margin-bottom: 5px; }
